@@ -1,7 +1,7 @@
 ## Hi everyone 👋
 
 <p align="left">I am Enrico Maria Sardellini and I have a degree in Computer and Automation Engineering from UNIVPM.</p>
-<!-- ### 📄[Curriculum Vitae](https://github.com/Ems01/Ems01/blob/main/Curriculum_Vitae.pdf).-->
+<!-- ## [📄Curriculum_Vitae.pdf](https://github.com/user-attachments/files/18010467/Curriculum_Vitae.pdf). -->
 
 ###
 
