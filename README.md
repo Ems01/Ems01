@@ -52,7 +52,7 @@
 
 #### Databases:
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase Firestore">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height="60rem" title="MySQL">
   <img src="https://www.geekandjob.com/uploads/wiki/5f6231ac011726c714dfa5bad0c05c4a4c8ad8c4.png" height="60rem" title="Redis">
   <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" height="60rem" title="Hadoop">
