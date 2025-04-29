@@ -47,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60rem" title="MATLAB"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60rem" title="Docker">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60rem" title="Tableau"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="60rem" title="Git">
 </div>
 
 #### Databases:
