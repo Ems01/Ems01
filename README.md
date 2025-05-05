@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60rem" title="Typescript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60rem" title="Javascript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60rem" title="Dart">
-  <img src="https://github.com/user-attachments/assets/75569472-a536-4c2f-ba8d-e0ccf74d761d" height="60rem" title="SwiProlog">
+  <img src="https://github.com/user-attachments/assets/75569472-a536-4c2f-ba8d-e0ccf74d761d" height="60rem" title="Prolog">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="60rem" title="Latex">
 </div>
 
@@ -43,6 +43,7 @@
 
 #### Software:
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" height="60rem" title="WordPress">
   <img src="https://media.codeweavers.com/pub/crossover/website/htmlimages/enterprise-architect-icon_1_1.png" height="60rem" title="Enterprise Architect">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60rem" title="MATLAB"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60rem" title="Docker">
