@@ -47,7 +47,8 @@
   <img src="https://media.codeweavers.com/pub/crossover/website/htmlimages/enterprise-architect-icon_1_1.png" height="60rem" title="Enterprise Architect">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60rem" title="MATLAB"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60rem" title="Docker">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60rem" title="Tableau"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60rem" title="Tableau">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Squid-cache.png" height="60rem" title="Squid"> 
 </div>
 
 #### Databases:
@@ -56,4 +57,5 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height="60rem" title="MySQL">
   <img src="https://www.geekandjob.com/uploads/wiki/5f6231ac011726c714dfa5bad0c05c4a4c8ad8c4.png" height="60rem" title="Redis">
   <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" height="60rem" title="Hadoop">
+  <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" height="60rem" title="MongoDB">
 </div>
