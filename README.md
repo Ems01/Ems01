@@ -27,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60rem" title="Javascript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60rem" title="Dart">
   <img src="https://github.com/user-attachments/assets/75569472-a536-4c2f-ba8d-e0ccf74d761d" height="60rem" title="Prolog">
-  <img src="https://private-user-images.githubusercontent.com/22773005/401335268-f435bae4-2970-4a87-8b74-64709d6c686a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc0NTA1NjEsIm5iZiI6MTc1NzQ1MDI2MSwicGF0aCI6Ii8yMjc3MzAwNS80MDEzMzUyNjgtZjQzNWJhZTQtMjk3MC00YTg3LThiNzQtNjQ3MDlkNmM2ODZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA5VDIwMzc0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2OWE5ZjgxZDI4YTE4ZjJmZjJhYzE1ZjhmNTZiNGVjZjBmZmNhODEwNzhiY2Q2ZjQ1YmQ5YzY5N2U1ZjkyYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rvP9GOuq0fhBaLPwoq2u5h3hfo1XiG-ZOvFqS0nCUGQ" height="60rem" title="Latex">
 </div>
 
 #### Frameworks:
